@@ -1,1 +1,1 @@
-# Korean-news-bot-nlp
+# Korean-newsbot-nlp
