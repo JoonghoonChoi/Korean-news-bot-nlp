@@ -16,7 +16,7 @@
 - DL model: Bidirectional LSTM<br>
 
 ✏ Naive-Bayse ML 모델과 튜닝 전 후 BiLSTM 세 개의 모델의 성능 비교<br>
-✏ 불균형한 데이터를 고려하여 f1 macro average 를 중점적으로 모델 성능 개선<br>
+✏ 불균형한 데이터를 고려하여 f1 macro average 를 중점으로 모델 성능 개선<br>
 ✏ 모든 성능 지표에서 기본 ML 모델이 더 뛰어난 성능을 보임
 
 <img width="300" alt="Screen Shot 2021-06-15 at 22 22 36" src="https://user-images.githubusercontent.com/74339882/122060353-76ad1380-ce28-11eb-95c0-e6dd91609929.png"><img width="300" alt="Screen Shot 2021-06-15 at 22 22 44" src="https://user-images.githubusercontent.com/74339882/122060363-790f6d80-ce28-11eb-84ed-4ef122bd5906.png"><img width="300" alt="Screen Shot 2021-06-15 at 22 22 55" src="https://user-images.githubusercontent.com/74339882/122060366-7a409a80-ce28-11eb-85bb-89c24031651e.png">
