@@ -11,15 +11,15 @@ def show_result(model, summarizer, texts,
     def print_by_length(text):
         '''
         코랩 노트북에서 print()하면 텍스트가 1열로 나와서 가독성이 안좋음
-        텍스트 길이 80을 기준으로 잘라서 출력해주는 함수 구현
+        텍스트 길이 100을 기준으로 잘라서 출력해주는 함수 구현
         '''
         if len(text) > 100:    
             start = 0
             end = 100
-            for _ in range(1, int(len(text) / 80)+2):
+            for _ in range(1, int(len(text) / 100)+2):
                 print(text[start:end])
                 start = end
-                end += 80
+                end += 100
         else:
             print(text)
             
