@@ -1,3 +1,5 @@
+[Go to presentation slide file](https://drive.google.com/file/d/1G7kpK4jrQVj3mOMMveB9UQRRnJ_V6PP0/view?usp=sharing/)
+
 # Korean-newsbot-nlp
 [네이버 랭킹뉴스](https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111) 로부터 가져온 기사를  4개의 카테고리(생활/문화, 정치/사회, 경제/산업, 과학/건강)로 분류하고 [Pororo package](https://github.com/kakaobrain/pororo)를 사용해 기사를 요약해주는 모델입니다.
 
